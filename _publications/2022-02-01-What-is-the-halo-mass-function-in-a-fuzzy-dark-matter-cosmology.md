@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2022-02-01-What-is-the-halo-mass-function-in-a-fuzzy-dark-matter-cosmology
 date: 2022-02-01
 venue: 'mnras'
-citation: ' Mihir {Kulkarni},  Jeremiah {Ostriker}, &quot;What is the halo mass function in a fuzzy dark matter cosmology?.&quot; mnras, 2022.'
+citation: 'Kulkarni, M. & Ostriker, J. P. 2022, MNRAS, 510, 1425'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=What+is+the+halo+mass+function+in+a+fuzzy+dark+matter+cosmology?){:target="_blank"} for full citation
+Visit [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.1425K/abstract) for the paper.
