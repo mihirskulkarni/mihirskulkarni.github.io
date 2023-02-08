@@ -3,7 +3,7 @@ title: "If Dark Matter is Fuzzy, the First Stars Form in Massive Pancakes"
 collection: publications
 permalink: /publication/2022-12-01-If-Dark-Matter-is-Fuzzy-the-First-Stars-Form-in-Massive-Pancakes
 date: 2022-12-01
-venue: 'apjl'
-citation: ' Mihir {Kulkarni},  Eli {Visbal},  Greg {Bryan},  Xinyu {Li}, &quot;If Dark Matter is Fuzzy, the First Stars Form in Massive Pancakes.&quot; apjl, 2022.'
+venue: 'ApJL'
+citation: 'Kulkarni M., Visbal E., Bryan G. L., Li X., 2022, ApJL, 941, 18'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=If+Dark+Matter+is+Fuzzy,+the+First+Stars+Form+in+Massive+Pancakes){:target="_blank"} for full citation
+Visit [ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...941L..18K/abstract) for the paper.
