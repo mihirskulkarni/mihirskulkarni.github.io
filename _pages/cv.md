@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My detailed CV in [pdf](cv.pdf).
+
 Education
 ======
 * B.S.-M.S. dual degree in Physics, Indian Institute of Science Education and Research, Pune, 2015.
