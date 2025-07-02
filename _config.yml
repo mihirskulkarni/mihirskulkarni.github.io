@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mihir Kulkarni"
   avatar           : "photo.jpeg"
-  bio              : "Astronomer. I study the formation of the first stars in the universe using numerical simulations."
-  location         : "Toledo, Ohio"
-  employer         : "University of Toledo"
+  bio              : "Astronomer. I study the formation of the first stars and galaxies in the universe using numerical simulations and analytic models.."
+  location         : "Göttingen, Germany"
+  employer         : "Georg-August-Universität Göttingen"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4zTsz_I-HWY4s0LsxDbeDHVPN4B9Zjzd52Vt7ju1_r41GP6SFfbjmNHMJspdlrst_dbGVsZPlaAJ8VRCggSMFdUmgmidsDnIvE10Xor&user=Mxna71QAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
